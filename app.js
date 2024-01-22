@@ -8,3 +8,8 @@ function printConsole() {
 function showAlert() {
   alert("Eu amo JS!");
 }
+
+function askCityPrompt() {
+  let city = prompt("Insira o nome de uma cidade brasileira.");
+  alert(`Estive em ${city} e lembrei de você!`);
+}
