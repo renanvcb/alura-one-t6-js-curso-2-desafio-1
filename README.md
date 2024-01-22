@@ -8,4 +8,4 @@
 
 1. [x] Crie uma função que é executada quando o botão prompt é clicado, perguntando o nome de uma cidade do Brasil. Em seguida, exiba um alerta com a mensagem concatenando a resposta com o texto: Estive em {cidade} e lembrei de você.
 
-1. [ ] Ao clicar no botão soma, peça 2 números e exiba o resultado da soma em um alerta.
+1. [x] Ao clicar no botão soma, peça 2 números e exiba o resultado da soma em um alerta.
