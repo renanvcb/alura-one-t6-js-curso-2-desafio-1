@@ -2,7 +2,7 @@
 
 1. [x] Altere o conteúdo da tag h1 com document.querySelector e atribua o seguinte texto: Hora do Desafio.
 
-2. [ ] Crie uma função que exiba no console a mensagem O botão foi clicado sempre que o botão Console for pressionado.
+2. [x] Crie uma função que exiba no console a mensagem O botão foi clicado sempre que o botão Console for pressionado.
 
 3. [ ] Crie uma função que exiba um alerta com a mensagem: Eu amo JS, sempre que o botão Alerta for pressionado.
 
