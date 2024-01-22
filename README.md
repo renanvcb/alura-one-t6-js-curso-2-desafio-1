@@ -1,6 +1,6 @@
 # Desafio 1 - Aula 2
 
-1. [ ] Altere o conteúdo da tag h1 com document.querySelector e atribua o seguinte texto: Hora do Desafio.
+1. [x] Altere o conteúdo da tag h1 com document.querySelector e atribua o seguinte texto: Hora do Desafio.
 
 2. [ ] Crie uma função que exiba no console a mensagem O botão foi clicado sempre que o botão Console for pressionado.
 
